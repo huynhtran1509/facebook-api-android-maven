@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project 
-    xmlns="http://maven.apache.org/POM/4.0.0" 
+<project
+    xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                         http://maven.apache.org/maven-v4_0_0.xsd">
-         
+
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.avianey</groupId>
-    <artifactId>facebook-android-api</artifactId>
+    <groupId>com.facebook.android</groupId>
+    <artifactId>facebook-sdk-android</artifactId>
     <version>3.5</version>
     <packaging>apklib</packaging>
 
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.google.android</groupId>
             <artifactId>support-v4</artifactId>
-            <version>r7</version>
+            <version>18</version>
         </dependency>
         <dependency>
             <groupId>com.google.android</groupId>
